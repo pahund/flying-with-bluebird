@@ -14,11 +14,11 @@ You need [Node.js](https://nodejs.org/) version 5 or greater installed.
 
 Run the code examples in the `src` folder with the flag `harmony_rest_parameters` like so:
 
-    node --harmony_rest_parameters src/sequence1.js
+    node --harmony_rest_parameters src/sequence4.js
 
 For your convenience, there is also an npm script for each example which you can run like this:
 
-    npm run sequence1
+    npm run sequence4
     
 ## License
 
