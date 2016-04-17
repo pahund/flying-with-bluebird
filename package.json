@@ -1,13 +1,16 @@
 {
   "name": "flying-with-bluebird",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Some code examples for programming with the Bluebird promise library",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sequence1": "node --harmony_rest_parameters ./src/sequence1.js",
+    "sequence2": "node --harmony_rest_parameters ./src/sequence2.js",
+    "sequence3": "node --harmony_rest_parameters ./src/sequence3.js",
+    "sequence4": "node --harmony_rest_parameters ./src/sequence4.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Patrick Hund",
+  "license": "WTFPL",
   "dependencies": {
     "bluebird": "^3.3.5"
   }
